@@ -1,0 +1,165 @@
+/* 
+----------
+GLOBAL
+----------
+*/
+
+.container {
+  max-width: 1200px;
+}
+
+/* 
+----------
+WELCOME
+----------
+*/
+
+.welcome-container {
+  height: 100vh;
+  max-width: 100vw;
+  width: 100vw;
+  background-image: linear-gradient(to bottom, #ffffff48, #0000005d),
+    url("../images/homepage.jpg");
+  background-size: cover;
+}
+
+.welcome-section {
+  color: white;
+  padding-top: 250px;
+  text-align: center;
+}
+
+#explore-button {
+  color: white;
+}
+
+#explore-button:hover {
+  background-color: #22222275;
+}
+
+/* 
+----------
+EXPLORE
+----------
+*/
+
+.explore-section {
+  text-align: center;
+}
+
+/* 
+----------
+SERVICES
+----------
+*/
+
+.services-section {
+  text-align: center;
+}
+
+/* 
+----------
+ADDRESS
+----------
+*/
+
+.address-section {
+  text-align: center;
+}
+
+/* 
+----------
+CONTACT
+----------
+*/
+
+.contact-section {
+  text-align: center;
+}
+
+.contact-form {
+  text-align: left;
+}
+
+/* 
+----------
+FOOTER
+----------
+*/
+
+.footer-container {
+  width: 100%;
+  background-color: #222222;
+}
+
+.footer-section {
+  color: white;
+  padding: 30px 0px;
+}
+
+/* 
+----------
+LOGIN
+----------
+*/
+
+.login-section {
+  padding-top: 150px;
+  text-align: center;
+}
+
+.login-error-container {
+  padding-top: 150px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.login-error-container a {
+  text-decoration: none;
+}
+
+/* 
+----------
+ADMIN
+----------
+*/
+
+.admin-container {
+  margin: 0;
+  width: 100vw;
+}
+
+.admin-panel {
+  height: 100vh;
+  padding-top: 150px;
+  color: #ffffff;
+  background: #222222;
+  text-align: center;
+}
+
+.admin-panel ul {
+  list-style-type: none;
+  padding-left: 25%;
+  text-align: left;
+}
+
+.admin-requests {
+  padding-top: 50px;
+}
+
+/* 
+----------
+Select
+----------
+*/
+
+.pricing-section {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.select-section {
+  padding-top: 30px;
+}
