@@ -1,2 +1,2 @@
 # Hotel-Booking-Website
-USE |HTML| |CSS| |JAVA| |PHP|
+USE Front-end |HTML| |CSS| |JAVA| and Backend |PHP|
